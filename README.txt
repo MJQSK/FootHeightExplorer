@@ -7,7 +7,11 @@ Live site: https://mjqsk.github.io/FootHeightExplorer/
 
 Includes a fitted regression line, a prediction slider, 95% confidence and
 prediction intervals, residual inspection, a guided walkthrough, and SVG export.
-The HTML embeds its data, fonts, and Plotly runtime and also works offline.
+The site also includes all four lmdiag diagnostic plots, panel-by-panel
+interpretations, and downloadable PNG, PDF, Python, and Python-plus-data ZIP.
+Direct diagnostics link: https://mjqsk.github.io/FootHeightExplorer/#diagnostics
+
+The HTML embeds its data, fonts, downloads, and Plotly runtime and works offline.
 
 Units are not specified in the source. Association does not establish causation.
 
